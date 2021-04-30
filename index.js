@@ -209,7 +209,7 @@ bot.hears("How I can participate ?", (ctx) => {
   );
 });
 
-bot.hears("Get acquainted with payment methods:", (ctx) => {
+bot.hears("Payment is made to this card:", (ctx) => {
   ctx.reply("Card Number :9860 0601 3510 8854");
 });
 
