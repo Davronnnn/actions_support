@@ -1,1 +1,23 @@
-{}
+{
+  "name": "actions_support",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davronnnn/actions_support.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Davronnnn/actions_support/issues"
+  },
+  "homepage": "https://github.com/Davronnnn/actions_support#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "telegraf": "3.32"
+  }
+}
